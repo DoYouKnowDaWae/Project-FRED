@@ -1,3 +1,3 @@
 # Project-FRED
 
-!DOCTYPEHTML
+<!DOCTYPE html>
